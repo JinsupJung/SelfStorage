@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
+  title: "K플랫폼의 셀프스토리지는 ...."
   content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
-  image: "/images/banner.png"
+  image: "/images/self1.png"
   button:
     enable: true
     label: "Get Started For Free"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "What's Included in Nextplate"
-    image: "/images/service-1.png"
+    image: "/images/self2.png"
     content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
     bulletpoints:
       - "10+ Pre-build pages"
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Discover the Key Features Of Next"
-    image: "/images/service-2.png"
+    image: "/images/self3.png"
     content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
